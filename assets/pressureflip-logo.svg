@@ -1,0 +1,20 @@
+<svg width="440" height="120" viewBox="0 0 440 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">PressureFlip Solutions logo</title>
+  <desc id="desc">A circuit-inspired pressure mark with the words PressureFlip Solutions.</desc>
+  <g transform="translate(4 6)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 72C8 43 31 18 64 15" stroke="#223040" stroke-width="9"/>
+    <path d="M23 89C27 65 46 47 76 47" stroke="#445b6c" stroke-width="9"/>
+    <path d="M48 101C52 86 64 75 82 74" stroke="#223040" stroke-width="9"/>
+    <path d="M64 15H87" stroke="#223040" stroke-width="9"/>
+    <path d="M76 47H96" stroke="#445b6c" stroke-width="9"/>
+    <path d="M82 74H105" stroke="#223040" stroke-width="9"/>
+    <circle cx="98" cy="15" r="8" fill="white" stroke="#223040" stroke-width="7"/>
+    <circle cx="107" cy="47" r="8" fill="white" stroke="#445b6c" stroke-width="7"/>
+    <circle cx="117" cy="74" r="8" fill="white" stroke="#223040" stroke-width="7"/>
+    <path d="M6 72L22 89" stroke="#223040" stroke-width="9"/>
+  </g>
+  <g fill="#223040" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="142" y="48" font-size="37" font-weight="700" letter-spacing="0">PressureFlip</text>
+    <text x="142" y="91" font-size="38" font-weight="400" letter-spacing="0" fill="#445b6c">Solutions</text>
+  </g>
+</svg>
